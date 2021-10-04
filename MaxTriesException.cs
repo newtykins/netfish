@@ -1,3 +1,6 @@
 ﻿using System;
 
-public class MaxTriesException: Exception {}
+namespace NETfish
+{
+	public class MaxTriesException : Exception { }
+}
